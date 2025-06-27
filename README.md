@@ -2,7 +2,7 @@
 
 An embeddable widget to promote **Bino**, a WhatsApp-based smart search bot for travel and business sourcing.
 
-![Preview Screenshot] <img src="screenshot.png">
+<img src="screenshot.png" alt="Preview Screenshot" />
 
 ## 🚀 Features
 - Floating “Try Bino” button with animation
@@ -18,7 +18,7 @@ An embeddable widget to promote **Bino**, a WhatsApp-based smart search bot for 
 ## 🧩 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Keerthan-01/Bino.git
+   git clone https://github.com/Keerthan-CK/widget-bino
    ```
 2. Open `index.html` in your browser.
 3. Customize logo, QR link, and sample queries as needed.
@@ -28,5 +28,3 @@ You can deploy it on:
 - [x] Netlify (drop folder)
 - [x] GitHub Pages
 - [x] Vercel
-
-
